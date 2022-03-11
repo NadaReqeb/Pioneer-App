@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224474296545",
+    "project_id": "pionner-app-c7769",
+    "storage_bucket": "pionner-app-c7769.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224474296545:android:d9d361f5eeef65f95287a0",
+        "android_client_info": {
+          "package_name": "com.example.pionner_app_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224474296545-klunfarct0knvtogcsg55eoufmfri2hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Xmwtx3j_oiIbgGJEyx6LkjscVJAwFTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224474296545-klunfarct0knvtogcsg55eoufmfri2hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
